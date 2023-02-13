@@ -23,6 +23,7 @@ website/node_modules
 *.iml
 *.test
 *.iml
+.terraform.lock.hcl
 
 # Test exclusions
 !command/test-fixtures/**/*.tfstate
