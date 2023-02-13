@@ -3,7 +3,7 @@ profile = "music"
 bucket_name = "academico.starsidiomas.com.br"
 tags = {
     Projeto     = "STARS IDIOMAS"
-    Name        = "cursoacademico.starsidiomas.com.br"
+    Name        = "academico.starsidiomas.com.br"
     Environment = "prod"
     ManagedBy   = "vpaulo.com"
   }
